@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manuella563
-- 👀 I’m interested in learning new tech stuff especially with the kali operating system at hand.
+- 👀 I’m interested in learning new tech stuff.
 - 🌱 I’m currently learning vulnerability analysis
-- 💞️ I’m looking to collaborate on wireless attacks
+- 💞️ I’m looking to collaborate on wireless attacks, apis and ethical hacking
 - 📫 How to reach me, email me on manueldebwayjnr@gmail.com
 
 <!---
