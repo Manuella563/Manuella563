@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Manuella563
+- 👋 Hi, Emmanuel Kirui
 - 👀 I’m interested in learning new tech stuff.
-- 🌱 I’m currently learning vulnerability analysis
-- 💞️ I’m looking to collaborate on wireless attacks, apis and ethical hacking
+- 🌱 I’m currently learning Cloud Automation
+- 💞️ I’m looking to collaborate on cloud automation
 - 📫 How to reach me, email me on manueldebwayjnr@gmail.com
 
 <!---
